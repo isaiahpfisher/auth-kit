@@ -7,6 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Auth Kit",
   description: "Modular Auth Components",
+  icons: [{ url: "/logo.png", href: "/logo.png" }],
 };
 
 export default function RootLayout({
