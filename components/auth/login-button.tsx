@@ -20,11 +20,11 @@ export const LoginButton = ({
   };
 
   if (mode === "modal") {
-    return <span>TODO: Implement Modal</span>;
+    // TODO: MODAL
   }
 
   return (
-    <span className="cursor-pointer" onClick={onClick}>
+    <span onClick={onClick} className="cursor-pointer">
       {children}
     </span>
   );
