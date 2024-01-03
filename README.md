@@ -11,6 +11,7 @@ I learned a lot more about how to handle authentication by building Auth Kit:
   - Updating emails.
   - Updating passwords.
   - OAuth providers (Google and Github)
+  - Role-based access (front-end and api)
 ### Technologies
 Auth Kit uses the following technologies:
 - React and Next.js
